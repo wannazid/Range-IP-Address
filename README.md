@@ -2,7 +2,9 @@
 # Range-IP
 Range IP is the addressing range in IP Address.
 
-# IP Version : 4 or 6
+# IP Version
+- IPv4
+- IPv6
 
 # Feature
 - Auto reset to 0
@@ -10,6 +12,11 @@ Range IP is the addressing range in IP Address.
 - 0-255
 
 # How to install
-
+``` bash
+pip install -r req.txt
+```
+``` bash
+python3 rangeip.py
+```
 # Thanks for using this tools
 
